@@ -31,4 +31,8 @@ async def dog(ctx):
     data = response.json()
     dog_url = data['message']
     await ctx.send(dog_url) 
+<<<<<<< HEAD
 client.run(TOKEN)
+=======
+client.run(TOKEN)
+>>>>>>> f73a993b2b1304d2bc1cdaf199bd8a4d250b9361
