@@ -31,4 +31,15 @@ async def dog(ctx):
     data = response.json()
     dog_url = data['message']
     await ctx.send(dog_url) 
+
+@client.command() 
+async def pet(ctx): 
+    author = ctx.message.author
+    await ctx.send ('thank you! ' + str(author))
+    
+@client.command()
+async def feed(ctx): 
+    await ctx.send ('mmm yummy!')
+
 client.run(TOKEN)
+
