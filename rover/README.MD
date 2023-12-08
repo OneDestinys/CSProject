@@ -2,19 +2,22 @@ Jacob Foti and Ryan Hong
 
 
 1. Project Overview 
-- We create a discord bot which uses ChatGPT to act like dog. 
+- We create a discord bot which uses an API to respond with pictures, as well as simple commands. 
 
 2. Usage Guildlines 
-- Users can download this Discord bot into their Discord servers, where they can tell Rover to fetch, roll over, and sit. The user can interact with rover through !fetch, !roll over, and !sit. This would show the respective animations for each move. The user can also use !stop, which would turn off Rover. 
+- Users can download this Discord bot into their Discord servers
+- !dog = Outputs a random picture of a dog in the API. 
+- !pet = Outputs Thank you! + the username of the user who pet the dog
+- !feed =  Outputs mmm yummy! 
 
 3. Dependancies 
-- Our Discord bot uses ChatGPT to create the animations for each input. 
+- Our Discord bot uses dog picture API to output pictures of a random breed of dog. 
   
 4. Project Structure
 
 5. Collaboration 
+  
 
 6. Acknowledgement 
 
 7. Reflection 
-8. 
