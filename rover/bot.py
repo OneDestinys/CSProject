@@ -46,6 +46,7 @@ async def pet(ctx, pats):
 @client.command()
 async def feed(ctx): 
     await ctx.send ('mmm yummy!')
+
 @client.command()
 async def cmds(ctx):
     embed = discord.Embed(title = "Command List", description = "All the commands usable by Rover!", color = 0x4B006E)
