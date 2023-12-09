@@ -1,6 +1,6 @@
 # Rover Bot
 Jacob Foti and Ryan Hong 
-![Rover](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.gather-cowork.com%2Fwp-content%2Fuploads%2F2021%2F06%2Fhappy-pup-1.png&tbnid=Bt82WdGAkL5wuM&vet=12ahUKEwilgMfylYODAxULNlkFHRAwAPoQMygAegQIARB0..i&imgrefurl=https%3A%2F%2Fwww.gather-cowork.com%2Fsigns-your-dog-is-happy%2F&docid=W06_Jl3mCbSxOM&w=800&h=507&q=happy%20dog&ved=2ahUKEwilgMfylYODAxULNlkFHRAwAPoQMygAegQIARB0)
+![Rover](https://guardiananimal.com/wp-content/uploads/2019/04/dog-1194077_1280-1080x675.jpg)
 ## 1. Project Overview 
 - RoverBot is a Discord bot that offers various fun and useful commands. It can translate text, provide cute dog pictures, answer questions using AI, and even generate images from text prompts.
 
