@@ -19,7 +19,7 @@ async def on_ready():
 
 @client.command()
 async def ping(ctx):
-    await ctx.send("Pong")
+    await ctx.send("Boop!")
 
 @client.command()
 async def translate(ctx, *, parameters):
@@ -57,11 +57,11 @@ async def cmds(ctx):
     embed = discord.Embed(title = "Command List", description = "All the commands usable by Rover!", color = 0x4B006E)
     embed.add_field(name="!translate [input language code] [output language code] [text]", value = "Translate any text you want to any language!", inline = False)
     embed.add_field(name="!dog", value = "Send a cute dog picture 🐕", inline = False)
-    embed.add_field(name="!ping", value = "Pongs", inline = False)
+    embed.add_field(name="!ping", value = "Rover boops you!", inline = False)
     embed.add_field(name="!pet [number]", value = "Pet Rover! He is very thankful", inline = False)
     embed.add_field(name="!feed", value = "Rover eats a tasty treat", inline = False)
-    embed.add_field(name="!gpt [question]", value = "Rover will answer any question you have!")
-    embed.add_field(name="!image [prompt]", value = "Rover will answer any question you have!")
+    embed.add_field(name="!gpt [question]", value = "Rover will answer any question you have!", inline=False)
+    embed.add_field(name="!image [prompt]", value = "Rover will try his best to make you some art", inline=False)
     await ctx.send(embed=embed)
 
 @client.command()
