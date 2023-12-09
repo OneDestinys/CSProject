@@ -9,7 +9,9 @@ Jacob Foti and Ryan Hong
 - !dog = Outputs a random picture of a dog in the API. 
 - !pet = Outputs Thank you! + the username of the user who pet the dog
 - !feed =  Outputs mmm yummy! 
-- !translate = translates the inputed sentence into english. Can translate from spanish and french. 
+- !translate = Translates the inputed sentence into english. Can translate from spanish and french. 
+- !image = Generates an image using ChatGPT 
+- !gpt = Answers any question using ChatGPT
 
 3. Dependancies 
 - Our Discord bot uses dog picture API to output pictures of a random breed of dog. 
@@ -18,7 +20,7 @@ Jacob Foti and Ryan Hong
 - Our discord bot was made using python. We imported discord into our code, which allowed us to create a codeable discord bot. We also created many client.commands which lets us code the intended output when we enter a certain command for the discord bot. 
 
 5. Collaboration 
-- Jacob was in charge of creating the bot and coded !dog, !translate, and !image. 
+- Jacob was in charge of creating the bot and coded !dog, !translate, !image, !gpt and !image. 
 - Ryan was in charge of writing the README as well as coding !pet and !feed. 
 
 6. Acknowledgement 
