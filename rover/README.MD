@@ -14,7 +14,7 @@ Jacob Foti and Ryan Hong
 - !gpt = Answers any question using ChatGPT
 
 3. Dependancies 
-- Our Discord bot uses dog picture API to output pictures of a random breed of dog. 
+- Our Discord bot uses dog picture API to output pictures of a random breed of dog. Our discord bot also uses ChatGPT to generate images and answer questions. 
   
 4. Project Structure
 - Our discord bot was made using python. We imported discord into our code, which allowed us to create a codeable discord bot. We also created many client.commands which lets us code the intended output when we enter a certain command for the discord bot. 
