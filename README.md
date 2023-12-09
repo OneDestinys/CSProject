@@ -1,5 +1,7 @@
 # Rover Bot
 Jacob Foti and Ryan Hong 
+
+
 <img src="https://www.gather-cowork.com/wp-content/uploads/2021/06/happy-pup-1.png" alt="Rover" width="200" height="200">
 ## 1. Project Overview 
 - RoverBot is a Discord bot that offers various fun and useful commands. It can translate text, provide cute dog pictures, answer questions using AI, and even generate images from text prompts.
